@@ -1,5 +1,6 @@
 ---
 layout: home
-home_text: An ambitious Data Scientist
+home_text: Data Science&nbsp; Machine Learning&nbsp; Mathematics
 title: Ioannis Linardos
 ---
+
