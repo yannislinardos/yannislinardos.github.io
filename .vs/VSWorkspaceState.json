@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\_includes",
+    "\\_layouts"
   ],
-  "SelectedNode": "\\about.md",
+  "SelectedNode": "\\favicon.ico",
   "PreviewInSolutionExplorer": false
 }
