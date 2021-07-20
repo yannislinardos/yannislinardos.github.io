@@ -1,26 +1,24 @@
 <!doctype html>
 <html lang="en">
-  <head>
+<head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="{{"/favicon.ico" | relative_url }}" type="image/x-icon" />
     <link rel="dns-prefetch" href="https://{{ site.disqus.shortname }}.disqus.com">
-    <meta
-    itemprop="description"
-    name="description"
-    content="
+    <meta itemprop="description"
+          name="description"
+          content="
         {% if page.description %}
             {{ page.description | truncate: 160 }}
         {% else %}
             {{ site.description | truncate: 160  }}
-        {% endif %}"
-    />
+        {% endif %}" />
     <title>
-      {%if page.title %}
-          {{ page.title }}
-      {% else %}
-          {{ site.title }}
-      {% endif %}
+        {%if page.title %}
+        {{ page.title }}
+        {% else %}
+        {{ site.title }}
+        {% endif %}
     </title>
     <!-- async load css file -->
     <link rel="stylesheet" href="{{"/assets/css/styles.css" | relative_url}}" media="none" onload="if(media!='all')media='all'">
@@ -41,7 +39,7 @@
     {% feed_meta %}
     {% seo %}
 
-  </head>
+</head>
     <body onload="onLoad()">
       {% include themeSelector.html %}
       {{ content }}
