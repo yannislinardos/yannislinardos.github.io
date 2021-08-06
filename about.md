@@ -12,7 +12,7 @@ experience in programming and database systems. I am looking for an entry-level 
 machine learning scientist or machine learning engineer. I am also open to paid internships.
 </div>
 </p>
-a
+aaa
  <p>
 You can have a look at<a href="{{ 'projects/' | relative_url }}"> my projects</a> or download my detailed <a href="{{ site.resume_url | relative_url }}">resume</a>.
 </p>
