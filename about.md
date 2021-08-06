@@ -12,8 +12,7 @@ machine learning scientist or machine learning engineer. I am also open to paid 
 </p>
 
  <p>
-You can have a look at<a href="{{ 'projects/' | relative_url }}"> my projects</a> or download my detailed <a href="{{ site.resume_url | relative_url }}">
-resume</a>.
+You can have a look at<a href="{{ 'projects/' | relative_url }}"> my projects</a> or download my detailed <a href="{{ site.resume_url | relative_url }}">resume</a>.
 </p>
 
 
@@ -40,6 +39,16 @@ resume</a>.
 
 <h3>Work Experience</h3>
 
+<b>09.2018-11.2021: <a href="https://www.utwente.nl/en/">University of Twente</a>, Enschede, The Netherlands </b>
+<ul>
+<li>Teaching Assistant in:</li>
+<ul>
+<li>BSc level Mathematics (Calculus, Linear Algebra, Probability Theory, Statistics)</li>
+<li>Python programming </li>
+<li>Assisted and occasionally given lectures and participated in grading process of projects and exams</li>
+</ul>
+</ul>
+
 <b>09.2020-12.2020: <a href="https://www.sioux.eu/jobs//contact/sioux-technologies-eindhoven-mathware/">Sioux Technologies</a>, Eindhoven, The Netherlands </b>
 <ul>
 <li>Research internship focused on Time Series Analysis with Deep Learning</li>
@@ -59,15 +68,7 @@ resume</a>.
 <li>Used Java and SQL for the back-end and JavaScript for the front-end</li>
 </ul>
 
-<b>09.2018-11.2021: <a href="https://www.utwente.nl/en/">University of Twente</a>, Enschede, The Netherlands </b>
-<ul>
-<li>Teaching Assistant in:</li>
-<ul>
-<li>BSc level Mathematics (Calculus, Linear Algebra, Probability Theory, Statistics)</li>
-<li>Python programming </li>
-<li>Assisted and occasionally given lectures and participated in grading process of projects and exams</li>
-</ul>
-</ul>
+
 
 <h3>Education</h3>
 
