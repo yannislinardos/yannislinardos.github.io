@@ -7,7 +7,7 @@ permalink: /about/
 <div style="text-align: justify">
 I am a conscientious and action-oriented data scientist with a background in computer science and applied mathematics. 
 I have a passion for making sense of data and extracting the value hidden in them. I have 1-2 years of experience in 
-academic and industrial projects, specializing in machine learning, statistics and operation research and gaining 
+academic and industrial projects, specializing in machine learning, statistics and operations research. I have also gained 
 experience in programming and database systems. I am looking for an entry-level position as a data scientist, data analyst, 
 machine learning scientist or machine learning engineer. I am also open to paid internships.
 </div>
