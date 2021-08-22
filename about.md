@@ -5,11 +5,11 @@ permalink: /about/
 ---
 <p>
 <div style="text-align: justify">
-I am a conscientious and action-oriented Data Scientist with a background in Computer Science and Applied Mathematics. 
-I am looking for an entry-level position or paid internship as a data scientist, data analyst or machine learning practitioner.
+I am a conscientious and action-oriented Data Scientist with qualifications in Computer Science and Applied Mathematics. 
+I am looking for an entry-level position or paid internship as a data scientist, data analyst or machine learning practitioner. 
 I have a passion for making sense of data and extracting the value hidden in them. I have approximately two years of 
-experience in academic and industrial projects, specializing in machine learning, statistics, operations research and data management. 
-I also followed courses in philosophy, psychology and management.
+experience in academic and industrial projects, specializing in machine learning, statistics, operations research and 
+data management. I also followed courses in philosophy, psychology and management.
 </div>
 </p>
 
